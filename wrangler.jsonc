@@ -4,7 +4,8 @@
 	"main": "bot.py",
 	"compatibility_date": "2026-02-22",
 	"compatibility_flags": [
-        "python_workers"
+        "python_workers",
+        "nodejs_compat"
 	],
 	"observability": {
 		"enabled": true
