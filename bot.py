@@ -1,4 +1,3 @@
-from workers import WorkerEntrypoint, Response
 
 import discord
 from discord import app_commands

@@ -2,6 +2,8 @@ name = "ticket-godbattle"
 main = "bot.py"
 compatibility_date = "2023-03-20"  # Use a recent date
 
+[build]
+builder = "NIXPACKS"
 
 [var]
 BOT_TOKEN = "MTQ3NDk4NjM1OTkzNTQ3MTY2Nw.GN8QKj.pGeN98vFBpdqw2VVcxAzvHZQKkf-52oF0nMxSs"
